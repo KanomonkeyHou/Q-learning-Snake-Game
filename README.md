@@ -1,7 +1,6 @@
 # 🐍 Smart Snake AI: Tabular Q-Learning Agent
 
 **Course:** CDS524 - Reinforcement Learning Project
-**Author:** Asb
 
 ## 📖 Project Overview
 This project implements a self-learning agent that masters a grid-based Snake game using the **Tabular Q-Learning** algorithm. Developed with **Python** and **Pygame**, the environment challenges the agent to navigate a 7x7 grid, maximize its score by collecting different types of food, and survive against dynamic hazards (walls, its own body, and increasing poisons).
